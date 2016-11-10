@@ -12,10 +12,14 @@ I have returned to web development following an extended sabbatical, in which I 
 
 ### Open-source projects
 
+- Functional javascript library - including Future, Maybe and Either - [gitub](https://github.com/matthewglover/functionaljs)
 - Hapi.js oauth plugin for Facebook login [github](https://github.com/matthewglover/hapi-oauth) / [npm](https://www.npmjs.com/package/@matthewglover/hapi-oauth)
 - Hapi.js jwt plugin for session management [github](https://github.com/matthewglover/hapi-jwt) / [npm](https://www.npmjs.com/package/@matthewglover/hapi-jwt)
 - Hapi.js wrapper for constructing a server instance [github](https://github.com/matthewglover/hapi-wrapper) / [npm](https://www.npmjs.com/package/@matthewglover/hapi-wrapper)
+- Creating a Promise implementation with TDD step-by-step (see branches) - [github](https://github.com/matthewglover/promise-example)
+- Creating a Future implementation with TDD step-by-step (see branches) - [github](https://github.com/matthewglover/future-example)
 - React app for finding location - with Facebook auth and API calls   [client](https://github.com/matthewglover/goodspot-client) / [server](https://github.com/matthewglover/goodspot-api)
+- React/redux/material-ui starter app - [github](https://github.com/matthewglover/react-redux-material-ui) / [heroku](https://react-redux-material-ui.herokuapp.com/)
 
 ***
 
@@ -62,3 +66,5 @@ I have returned to web development following an extended sabbatical, in which I 
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-glover-uk)
+- [Github Resume](https://resume.github.io/?matthewglover)
+- [Codewars Profile - 2kyu](http://www.codewars.com/users/matthewglover)
