@@ -2,11 +2,12 @@
 
 ### About
 
-I am a full-stack JavaScript Developer at Founders and Coders CIC, currently building web applications with Node.js and React. I enjoy helping people discover the power and fun of programming and volunteers at Coding for Everyone and Codebar.io.
+I am a full-stack JavaScript Developer at Founders and Coders CIC, currently building web applications with Node.js and React. I enjoy helping people discover the power and fun of programming and volunteer at Coding for Everyone and Codebar.io.
 
-I am interested in functional and reactive programming, and hopes one day to be able to fully understand Monads. For fun, I have been dabbling with Haskell and Elixir.
+I am interested in functional and reactive programming, and hope one day to be able to fully understand Monads. For fun, I have been dabbling with Haskell and Elixir.
 
 I have returned to web development following an extended sabbatical, in which I retrained as a commercial contracts lawyer, worked in the City of London for leading international law firms, and obtained an MBA. I am pragmatic, solutions-oriented and a good communicator, with extensive experience working in multi-disciplinary teams.
+
 
 ***
 
@@ -22,6 +23,13 @@ I have returned to web development following an extended sabbatical, in which I 
 - React/redux/material-ui starter app - [github](https://github.com/matthewglover/react-redux-material-ui) / [heroku](https://react-redux-material-ui.herokuapp.com/)
 
 ***
+
+***
+### Articles
+
+- [Composable asynchronous programming in JavaScript](https://medium.com/@MattGlvr/composable-asynchronous-programming-in-javascript-7782d2047a43)
+- [Brain dump on Arrays, Promises and Observables](https://medium.com/@MattGlvr/brain-dump-on-arrays-promises-and-observables-a20421907ede)
+
 
 ### Languages
 
@@ -41,7 +49,7 @@ I have returned to web development following an extended sabbatical, in which I 
 | Angular 1                      | Koa                              | Ava
 | Backbone                       | Express                          | Mocha
 | Ionic                          | Rails                            | Jasmine
-|                                | Sinatra                          | RSpec
+| RxJS                           | Sinatra                          | RSpec
 
 ***
 
