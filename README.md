@@ -49,6 +49,14 @@ I have returned to web development following an extended sabbatical, in which I 
 | Ionic                          | Rails                            | Jasmine
 | RxJS                           | Sinatra                          | RSpec
 
+### Tooling
+
+- Build tools: Webpack / Gulp / Grunt
+- Transpilers: Babel / Traceur / Closure Compiler
+- NPM (JavaScript) / Bundler (Ruby)
+- Continuous Integrations - Travis CI / Codeship
+- Code coverage - Istanbul / NYC (JavaScript)
+
 ***
 
 ### Experience
