@@ -23,8 +23,6 @@ I have returned to web development following an extended sabbatical, in which I 
 - React/redux/material-ui starter app - [github](https://github.com/matthewglover/react-redux-material-ui) / [heroku](https://react-redux-material-ui.herokuapp.com/)
 
 ***
-
-***
 ### Articles
 
 - [Composable asynchronous programming in JavaScript](https://medium.com/@MattGlvr/composable-asynchronous-programming-in-javascript-7782d2047a43)
@@ -66,10 +64,10 @@ I have returned to web development following an extended sabbatical, in which I 
 
 ### Education
 
-- MBA (Distinction, Top Student Prize) - _WUTBS / LBS / HEC / Norwegian School of Economics_
-- Legal Practice Course (Distinction) - _BPP Law School_
-- Graduate Diploma in Law (Commendation) - _BPP Law School_
-- BA Hons History (2.1) - _University of Warwick_
+- MBA (Distinction, Top Student Prize) - _WUTBS / LBS / HEC / Norwegian School of Economics (2011-2012)_
+- Legal Practice Course (Distinction) - _BPP Law School (2004-2005)_
+- Graduate Diploma in Law (Commendation) - _BPP Law School (2003-2004)_
+- BA Hons History (2.1) - _University of Warwick (1995-1998)_
 
 ### Links
 
